@@ -8,8 +8,16 @@ Status: conceptual build work, not professional work product.
 - Trim borrows from Civil War Union officer uniforms: brass/gold, double-breasted button rows.
 
 ## Insignia Placement
-- **Shoulders:** shoulder-strap boards mounted on top of the pauldrons, bearing two silver
-  major-general's stars, gold edging. Stars read as rank and as armor detail.
+- **Shoulders:** low-profile vertical insignia panel set nearly flush into the top of each
+  pauldron, close to the metal — two GOLD major-general's stars on the blue plating,
+  gold on blue throughout. The general's epaulette fringe is translated into armor
+  language: fine straight gold engraved relief lines radiating from the bottom and sides
+  of the panel, draping over the pauldron curve like stylized metal fringe. No hanging
+  textile fringe. (Judge Dredd influence, all hard armor.)
+
+## Finish
+- **Pristine and clean** — parade-ground finish, not weathered or battle-damaged.
+  Gloss Union blue, polished gold. This is dress armor.
 - **Gauntlets:** flared turned-back cuff at the wrist end, echoing the Union officer's
   upturned sleeve cuff, edged with gold braid trim. Cuff flare also houses the
   wrist-plume fog emitter.
